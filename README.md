@@ -79,7 +79,7 @@ flowchart LR
 
 ## Author
 
-**Leandro Rocha** · civil engineer and software developer · Brazil
+**Leandro Rocha** · civil engineer and software developer · Joinville, Brazil
 I design, build and operate the Centtra products end to end, from database and architecture to UI.
 
 ---
